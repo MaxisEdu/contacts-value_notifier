@@ -1,0 +1,1 @@
+ /home/dev/.gemini/antigravity/scratch/personal-edu-projects/flutter/vanillacontacts_course/.dart_tool/flutter_build/772829949a86ef68222ba93f1797fa06/dart_build_result.json: 
